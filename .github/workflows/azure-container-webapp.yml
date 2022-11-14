@@ -33,4 +33,4 @@ jobs:
         customizer-script: |
           sudo mkdir /buildArtifacts
           sudo cp -r /tmp/ /buildArtifacts/
-          sh /buildArtifacts/workflow-artifacts/install-world.sh
+          
